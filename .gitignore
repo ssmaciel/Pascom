@@ -30,3 +30,7 @@ proguard/
 
 # Android Studio captures folder
 captures/
+/AppPascom/Droid/obj/Debug
+/AppPascom/iOS/obj/iPhoneSimulator/Debug
+/AppPascom/packages
+/AppPascom/AppPascom/obj/Debug
